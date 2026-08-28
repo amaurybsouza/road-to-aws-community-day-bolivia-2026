@@ -6,6 +6,7 @@ This repository contains materials and references from my participation as a spe
 
 - 📅 [Official Event Page](https://www.meetup.com/aws-user-group-cochabamba/events/316161939)
 - 🎤 [Presentation on Speaker Deck](https://speakerdeck.com/amaurybsouza/road-to-community-day-bolivia-2026-dia-4)
+- 📢[YouTube Transmission](https://www.youtube.com/live/cxG1pQtXpTs?si=O6Dt5t0XRTAq7VYD)
 
 **Terraform at Scale: Security Without Friction**
 As Terraform adoption grows across teams and environments, security needs to scale without becoming a bottleneck.
