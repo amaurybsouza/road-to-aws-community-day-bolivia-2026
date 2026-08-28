@@ -6,8 +6,8 @@ This repository contains materials and references from my participation as a spe
 
 **Terraform at Scale: Security Without Friction**
 As Terraform adoption grows across teams and environments, security needs to scale without becoming a bottleneck.
-
-[text](../../../..)
+!
+[image-road](https://github.com/amaurybsouza/road-to-aws-community-day-bolivia-2026/blob/main/road-aws-image1.png)
 
 In this session, I shared approaches for integrating security into Terraform workflows while maintaining developer velocity, focusing on automation, security guardrails, and scalable Infrastructure as Code practices.
 
