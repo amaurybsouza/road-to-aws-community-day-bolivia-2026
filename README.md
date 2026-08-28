@@ -6,7 +6,10 @@ This repository contains materials and references from my participation as a spe
 
 - 📅 [Official Event Page](https://www.meetup.com/aws-user-group-cochabamba/events/316161939)
 - 🎤 [Presentation on Speaker Deck](https://speakerdeck.com/amaurybsouza/road-to-community-day-bolivia-2026-dia-4)
-- 📢[YouTube Transmission](https://www.youtube.com/live/cxG1pQtXpTs?si=O6Dt5t0XRTAq7VYD)
+- 📢 [YouTube Transmission](https://www.youtube.com/live/cxG1pQtXpTs?si=O6Dt5t0XRTAq7VYD)
+- [Instagram](https://www.instagram.com/awscommunitydaybolivia/)
+- [LinkedIn](https://www.linkedin.com/posts/awscommunitydaybolivia_roadtocommunitydaybolivia-awscommunityday-activity-7498411133406507008-eqAG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAcKT80BsLSTnOaiQfsbUEzahvyJ58mmMBY)
+
 
 **Terraform at Scale: Security Without Friction**
 As Terraform adoption grows across teams and environments, security needs to scale without becoming a bottleneck.
