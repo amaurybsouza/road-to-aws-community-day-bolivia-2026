@@ -2,14 +2,13 @@
 
 This repository contains materials and references from my participation as a speaker at the **Road to AWS Community Day Bolivia 2026**.
 
-## 🎤 Session
+## 🔗 Session Resources
+
+- 📅 [Official Event Page](https://www.meetup.com/aws-user-group-cochabamba/events/316161939)
+- 🎤 [Presentation on Speaker Deck](https://speakerdeck.com/amaurybsouza/road-to-community-day-bolivia-2026-dia-4)
 
 **Terraform at Scale: Security Without Friction**
 As Terraform adoption grows across teams and environments, security needs to scale without becoming a bottleneck.
-
-🔗 **Meetup Link**: https://www.meetup.com/aws-user-group-cochabamba/events/316161939/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=347064395
-
-🔗 **SpeakerDeck**: https://speakerdeck.com/amaurybsouza/road-to-community-day-bolivia-2026-dia-4
 
 ![image-road](https://github.com/amaurybsouza/road-to-aws-community-day-bolivia-2026/blob/main/road-aws-image1.png)
 
